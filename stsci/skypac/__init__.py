@@ -1,13 +1,14 @@
 """skymatch"""
 import os
 
-from .version import __version__
+# from .version import __version__
 
 # from .version import version as __version__
 
 __author__ = 'Mihai Cara'
 __docformat__ = 'restructuredtext en'
 __taskname__ = 'skymatch'
+__version__='9.9.9'
 
 
 from . import parseat  # noqa: F401
